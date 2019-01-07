@@ -1,0 +1,28 @@
+1,Austria,Jan. 1,1995
+2,Belgium,Jan. 1,1958
+3,Bulgaria,Jan. 1,2007
+4,Croatia,July 1,2013
+4,Cyprus,May 1,2004
+5,Czech Republic,May 1,2004
+6,Denmark,Jan. 1,1973
+7,Estonia,May 1,2004
+8,Finland,Jan. 1,1995
+9,France,Jan. 1,1958
+10,Germany,Jan. 1,1958
+11,Greece,Jan. 1,1981
+12,Hungary,May 1,2004
+13,Ireland,Jan. 1,1973
+14,Italy,Jan. 1,1958
+15,Latvia,May 1,2004
+16,Lithuania,May 1,2004
+17,Luxembourg,Jan. 1,1958
+18,Malta,May 1,2004
+19,Netherlands,Jan. 1,1958
+20,Poland,May 1,2004
+21,Portugal,Jan. 1,1986
+22,Romania,Jan. 1,2007
+23,Slovakia,May 1,2004
+24,Slovenia,May 1,2004
+25,Spain,Jan. 1,1986
+26,Sweden,Jan. 1,1995
+27,United Kingdom,Jan. 1,1973
